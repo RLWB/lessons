@@ -20,3 +20,5 @@
 5、 mv 移动文件或者文件夹
 
 6、 cat 查看文件
+
+[详细教程](http://www.runoob.com/linux/linux-command-manual.html)

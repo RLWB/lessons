@@ -6,4 +6,4 @@
 * gulp-rename: 文件重命名
 * gulp-sass: 编译sass
 * gulp-clean-css: 压缩css
-* gulp-livereload: 实时自动编译刷新
+* browser-sync: 实时自动编译刷新
