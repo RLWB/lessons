@@ -17,7 +17,7 @@ git 分布式版本管理系统，
 * 安装2.*版本sourcetree
 * 安装完成进入 %LocalAppData%\Atlassian\SourceTree\ 目录
 * 创建accounts.json,插入内容
-``` 
+``` JavaScript
 [
   {
     "$id": "1",
