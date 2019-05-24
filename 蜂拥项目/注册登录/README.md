@@ -16,3 +16,5 @@ sketch 设计网页，app，移动网页，前端和移动端开发
 5、static，assets文件夹里面的静态文件资源有什么区别
 
 6、注意监控input内容变化，change,input,watch
+
+7、axios相关知识点
